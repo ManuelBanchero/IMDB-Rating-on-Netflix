@@ -24,7 +24,7 @@ IMDb: 8.7 ⭐ (205,246K votes)
 ## 🚀 Installation
 
 1. Install **Tampermonkey** on your browser.  
-2. Create a new script and paste the code from `IMDB_Rating_on_Netflix.user.js`.  
+2. Create a new script and paste the code from `script.js`.  
 3. Replace the `API_KEY` variable with your own OMDb API key.  
 4. Save the script and visit [Netflix](https://www.netflix.com).  
 
